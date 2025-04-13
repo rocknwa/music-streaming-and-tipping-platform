@@ -164,7 +164,7 @@ npx run deploy
   ```
 cd interface
   ```
-For detail on running the frontend, check [interface](https://github.com/rocknwa/music-streaming-and-tipping-platform/interface)
+For detail on running the frontend, check [interface](https://github.com/rocknwa/music-streaming-and-tipping-platform/tree/main/interface)
  
 ## Usage
 
