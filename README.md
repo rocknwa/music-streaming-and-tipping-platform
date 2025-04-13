@@ -14,8 +14,6 @@ A decentralized music streaming platform on zkSync that leverages native account
   - [zkTune](#zktune)
 - [Prerequisites](#prerequisites)
 - [Installation and Setup](#installation-and-setup)
-- [Deployment](#deployment)
-- [Testing](#testing)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
