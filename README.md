@@ -174,23 +174,6 @@ Integration with zkSync’s native paymaster facilitates seamless, gas-efficient
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-- Fork the repository and create your branch from `main`.
-- Ensure your code adheres to the Solidity Style Guide and OpenZeppelin best practices.
-- Submit a pull request with detailed explanations of the changes.
-
-For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgements
 
 - [zkSync](https://zksync.io) – For enabling scalable Ethereum transactions.
